@@ -1,9 +1,9 @@
-## 我是LF 🌷
+## this is LF
 
-- 👋 Hi, I’m a Java developer with two and a half years of practice 🐵.
-- :pencil: 博客：[掘金💤](https://juejin.cn/user/536217406937047)
+- 👋 Hi, I’m a Frontend Developer.
+- ⛳ 博客：[掘金💤](https://juejin.cn/user/536217406937047)
 - 🏡 业务项目： 
-- 🚀组件项目：
+- 🚀 组件项目：
 
 
 
@@ -24,4 +24,7 @@
 
 ### 交个朋友 👬🏻
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<div>
+<em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
