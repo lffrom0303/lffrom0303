@@ -1,9 +1,7 @@
 ## this is LF
 
 - 👋 Hi, I’m a Frontend Developer.
-- ⛳ 博客：[掘金💤](https://juejin.cn/user/536217406937047)
-- 🏡 业务项目： 
-- 🚀 组件项目：
+- ⛳ Blog：[掘金💤](https://juejin.cn/user/536217406937047)
 
 
 
